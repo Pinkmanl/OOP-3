@@ -1,10 +1,9 @@
 namespace Oop_3_3.boxer
 {
-    public enum BoxerCategory
+   public enum BoxerCategory
     {
-        heavy,
-
-        medium,
-        fly_Weight,
+        EASY = 1,        
+        MEDIUM =2,
+        HEAVY =3
     }
 }

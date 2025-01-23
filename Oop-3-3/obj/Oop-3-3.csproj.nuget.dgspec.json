@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\dilmurod\\Desktop\\OOP-3\\Oop-3-3\\Oop-3-3.csproj": {}
+    "C:\\Users\\dilmurod\\Desktop\\OOP-3\\Oop-3-3\\Oop-3-3.csproj": {}
   },
   "projects": {
-    "c:\\Users\\dilmurod\\Desktop\\OOP-3\\Oop-3-3\\Oop-3-3.csproj": {
+    "C:\\Users\\dilmurod\\Desktop\\OOP-3\\Oop-3-3\\Oop-3-3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\dilmurod\\Desktop\\OOP-3\\Oop-3-3\\Oop-3-3.csproj",
+        "projectUniqueName": "C:\\Users\\dilmurod\\Desktop\\OOP-3\\Oop-3-3\\Oop-3-3.csproj",
         "projectName": "Oop-3-3",
-        "projectPath": "c:\\Users\\dilmurod\\Desktop\\OOP-3\\Oop-3-3\\Oop-3-3.csproj",
+        "projectPath": "C:\\Users\\dilmurod\\Desktop\\OOP-3\\Oop-3-3\\Oop-3-3.csproj",
         "packagesPath": "C:\\Users\\dilmurod\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\dilmurod\\Desktop\\OOP-3\\Oop-3-3\\obj\\",
+        "outputPath": "C:\\Users\\dilmurod\\Desktop\\OOP-3\\Oop-3-3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dilmurod\\AppData\\Roaming\\NuGet\\NuGet.Config"

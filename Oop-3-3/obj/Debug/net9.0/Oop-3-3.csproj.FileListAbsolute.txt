@@ -12,3 +12,4 @@ c:\Users\dilmurod\Desktop\OOP-3\Oop-3-3\obj\Debug\net9.0\refint\Oop-3-3.dll
 c:\Users\dilmurod\Desktop\OOP-3\Oop-3-3\obj\Debug\net9.0\Oop-3-3.pdb
 c:\Users\dilmurod\Desktop\OOP-3\Oop-3-3\obj\Debug\net9.0\Oop-3-3.genruntimeconfig.cache
 c:\Users\dilmurod\Desktop\OOP-3\Oop-3-3\obj\Debug\net9.0\ref\Oop-3-3.dll
+C:\Users\dilmurod\Desktop\OOP-3\Oop-3-3\obj\Debug\net9.0\Oop-3-3.sourcelink.json
