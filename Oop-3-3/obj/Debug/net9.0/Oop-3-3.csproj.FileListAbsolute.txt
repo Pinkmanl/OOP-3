@@ -1,0 +1,14 @@
+c:\Users\dilmurod\Desktop\OOP-3\Oop-3-3\bin\Debug\net9.0\Oop-3-3.exe
+c:\Users\dilmurod\Desktop\OOP-3\Oop-3-3\bin\Debug\net9.0\Oop-3-3.deps.json
+c:\Users\dilmurod\Desktop\OOP-3\Oop-3-3\bin\Debug\net9.0\Oop-3-3.runtimeconfig.json
+c:\Users\dilmurod\Desktop\OOP-3\Oop-3-3\bin\Debug\net9.0\Oop-3-3.dll
+c:\Users\dilmurod\Desktop\OOP-3\Oop-3-3\bin\Debug\net9.0\Oop-3-3.pdb
+c:\Users\dilmurod\Desktop\OOP-3\Oop-3-3\obj\Debug\net9.0\Oop-3-3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\dilmurod\Desktop\OOP-3\Oop-3-3\obj\Debug\net9.0\Oop-3-3.AssemblyInfoInputs.cache
+c:\Users\dilmurod\Desktop\OOP-3\Oop-3-3\obj\Debug\net9.0\Oop-3-3.AssemblyInfo.cs
+c:\Users\dilmurod\Desktop\OOP-3\Oop-3-3\obj\Debug\net9.0\Oop-3-3.csproj.CoreCompileInputs.cache
+c:\Users\dilmurod\Desktop\OOP-3\Oop-3-3\obj\Debug\net9.0\Oop-3-3.dll
+c:\Users\dilmurod\Desktop\OOP-3\Oop-3-3\obj\Debug\net9.0\refint\Oop-3-3.dll
+c:\Users\dilmurod\Desktop\OOP-3\Oop-3-3\obj\Debug\net9.0\Oop-3-3.pdb
+c:\Users\dilmurod\Desktop\OOP-3\Oop-3-3\obj\Debug\net9.0\Oop-3-3.genruntimeconfig.cache
+c:\Users\dilmurod\Desktop\OOP-3\Oop-3-3\obj\Debug\net9.0\ref\Oop-3-3.dll
